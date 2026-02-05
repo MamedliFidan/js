@@ -15,5 +15,6 @@ photos.forEach(photo => {
       img.style.height = "300px";
 
     activeImg = img;
+    
   });
 });
